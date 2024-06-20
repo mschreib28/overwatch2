@@ -1,6 +1,8 @@
 # overwatch2
 Character Comparison Table for Overwatch2
 
+![Counters_img](https://assets2.rockpapershotgun.com/overwatch-2-counters-chart-4k.jpg)
+
 | Hero           | Abilities                                                                                       | Strengths                                               | Weaknesses                                           | Best Counters                    | Counter Reasoning                                        |
 |----------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|----------------------------------|----------------------------------------------------------|
 | ![Ana](https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png) Ana           | Biotic Rifle, Sleep Dart, Biotic Grenade, Nano Boost                                            | Long-range healing, crowd control, burst healing         | Mobility, dive heroes                                | Tracer, Genji, Winston           | High mobility allows them to reach and eliminate Ana quickly, preventing her from healing and using her abilities effectively. |
